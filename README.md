@@ -15,9 +15,6 @@
  🌱 I’m currently learning **React**
 
 💬 Ask me about **HTML, CSS, Javascript, JAVA or anything [here](https://github.com/abhishekmn99/abhishekmn99/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
  </div>
  
 <div align="center"> 
