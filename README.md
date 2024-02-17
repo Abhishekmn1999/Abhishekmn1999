@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=1000&lines=Hi+There!+👋;+I'm+Abhishek+Nandeppagol!;+Software+Developer"/>
 </h1>
 
-<h3 align="center">A passionate software developer from INDIA <img src="https://cdn.pixabay.com/animation/2022/08/21/20/03/20-03-41-348_512.gif" width="28px" height="28px"/></h3>
+<h2 align="center">A passionate software developer from INDIA <img src="https://cdn.pixabay.com/animation/2022/08/21/20/03/20-03-41-348_512.gif" width="28px" height="20px"/></h2>
 <br/>
 
 <div align="center">
