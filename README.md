@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **React**
+ 🔭 I’m currently working on **React**<img src="https://assets-v2.lottiefiles.com/a/b3202668-1151-11ee-939e-cf25d6aad422/yThIWit8xm.gif" width="28px" height="20px"/>
  
  🌱 I’m currently learning **React**
 
