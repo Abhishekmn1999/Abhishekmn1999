@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=abhishekmn99.abhishekmn99" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=1000&lines=Hi+There!+👋;+I'm+Abhishek+Nandeppagol!;+Software+Developer"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=1500&lines=Hi+There!+👋;+I'm+Abhishek+Nandeppagol!;+Software+Developer"/>
 </h1>
 
 <h2 align="center">A passionate software developer from INDIA <img src="https://cdn.pixabay.com/animation/2022/08/21/20/03/20-03-41-348_512.gif" width="28px" height="20px"/></h2>
